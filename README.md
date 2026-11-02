@@ -1,6 +1,3 @@
-# Cybersecurity-Lab-Notes
-Documentation, SIEM log analysis, Linux security hardening, and Python automation for SOC operations.
-
 # 🛡️ Cybersecurity & SOC Operations Portfolio
 
 ## 👤 About Me
@@ -15,6 +12,7 @@ Documentation, SIEM log analysis, Linux security hardening, and Python automatio
 ### 1. Security Frameworks & Foundations (Google Cert - Course 1 & 2)
 * [x] Drafted Professional Statement and aligned career goals for SOC Analyst roles
 * [x] Applied NIST CSF and CIA Triad concepts to risk scenario analysis
+* [x] [Botium Toys Internal Security Audit (NIST CSF & Compliance Assessment)](./Botium-Toys-Security-Audit.md)
 * [ ] SIEM Log Analysis & Incident Triage (Splunk / Chronicle)
 
 ### 2. Practical Security Projects (Upcoming)
